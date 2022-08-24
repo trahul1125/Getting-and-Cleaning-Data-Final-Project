@@ -2,7 +2,7 @@
 
 This code book describes the variables of the data set, and any transformations performed to clean up the data in `tidy_data.txt` 
 
-*Work 
+**Work 
 The training and test set are concatnated into one data set
 
 
@@ -19,11 +19,11 @@ Final result is stored in TidyData.txt
 **List of Features
 
 ** Identifiers
-* `subject/SUBJECT: The ID of the person undergoing the test ranging from 1 - 30
-* `activity/ACTIVITY`: specific activities individuals were performing, includes: `WALKING`, `WALKING_UPSTAIRS`, `WALKING_DOWNSTAIRS`, `SITTING`, `STANDING`, `LAYING`
+* subject/SUBJECT: The ID of the person undergoing the test ranging from 1 - 30
+* activity/ACTIVITY`: specific activities individuals were performing, includes: `WALKING`, `WALKING_UPSTAIRS`, `WALKING_DOWNSTAIRS`, `SITTING`, `STANDING`, `LAYING`
 
 ** Measured Variables
-** feature info
+** FEATURE INFO:
 * The set of variables that were estimated from these signals are: 
 
 mean(): Mean value
